@@ -1,7 +1,8 @@
 {
   "name": "ResinCoin Mainnet",
   "chain": "RESIN",
-  "rpc": ["https://mainnet.resincoin.dev"],
+  "icon": "resincoin",
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
