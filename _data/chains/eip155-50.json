@@ -2,14 +2,22 @@
   "name": "XDC Network",
   "chain": "XDC",
   "rpc": [
-    "https://erpc.xinfin.network",
-    "https://rpc.xinfin.network",
+    "https://rpc.xdcrpc.com",
+    "wss://rpc.xdcrpc.com/ws",
     "https://rpc1.xinfin.network",
-    "https://rpc-xdc.icecreamswap.com"
+    "https://erpc.xinfin.network",
+    "https://erpc.xdcrpc.com",
+    "wss://erpc.xdcrpc.com/ws",
+    "https://rpc.xdc.org",
+    "https://earpc.xinfin.network/",
+    "https://erpc.xinfin.network/",
+    "wss://ews.xinfin.network/ws",
+    "https://rpc.ankr.com/xdc",
+    "https://api.tatum.io/v3/blockchain/node/xdc-mainnet"
   ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "XinFin",
+    "name": "XinFin XDC Network",
     "symbol": "XDC",
     "decimals": 18
   },
